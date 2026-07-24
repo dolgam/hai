@@ -412,7 +412,7 @@ If you publish your works that use HAI data sets, HAICon competitions, and eTaPR
 ### HAI 22.04, HAI 23.05, HAIEnd 23.05
 ```bibtex
   @misc{github,
-    author={Shin, Hyeok-Ki; Lee, Woomyo; Choi, Seungoh; Yun, Jeong-Han; and Min, Byung-Gi},
+    author={Shin, Hyeok-Ki; Lee, Woomyo; Choi, Seungoh; Yun, Jeong-Han; and Min, Byung-Gil},
     title={HAI security datasets},
     year={2023},
     url={https://github.com/icsdataset/hai},
@@ -421,7 +421,7 @@ If you publish your works that use HAI data sets, HAICon competitions, and eTaPR
 ### HAI 21.03, HAICon 2020, HAICon 2021
 ```bibtex
     @inproceedings{10.1145/3474718.3474719,
-    author = {Shin,  Hyeok-Ki and Lee, Woomyo and Yun, Jeong-Han and Min, Byung-Gi},
+    author = {Shin,  Hyeok-Ki and Lee, Woomyo and Yun, Jeong-Han and Min, Byung-Gil},
     title = {Two ICS Security Datasets and Anomaly Detection Contest on the HIL-Based Augmented ICS Testbed},
     year = {2021},
     isbn = {9781450390651},
